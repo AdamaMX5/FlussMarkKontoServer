@@ -1,0 +1,3 @@
+<sui:scenario id="google">
+  <navigate method="to" url="http://google.com"/>
+</sui:scenario>
